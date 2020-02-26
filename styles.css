@@ -13,3 +13,7 @@ div#nav-top > a {
   text-transform:uppercase;
   
 }
+
+div#nav-top > a:hover {
+  background-image: linear-gradient(to right, red, orange);
+}
